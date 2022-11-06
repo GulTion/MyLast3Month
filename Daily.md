@@ -1,8 +1,8 @@
 # Daily Time Table
 ---
 - ## DBMS - Function Dependecy
-    - [ ] Zeal Workbook
-    - [ ] Make Short Notes
+    - [x] Zeal Workbook till 40
+    - [x] Make Short Notes till BCNF
     - [ ] Applied Practice Set Question
     - [ ] PYQ from Practicepaper.in
 
